@@ -1,0 +1,2 @@
+# Algorithms
+Learn Algorithm quickly
