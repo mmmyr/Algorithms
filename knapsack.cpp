@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	#do sth in main 
+	#do sth in update 
 	return 0;
 }
