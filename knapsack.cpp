@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	#do sth in new-code 
+	#do sth in main 
 	return 0;
 }
